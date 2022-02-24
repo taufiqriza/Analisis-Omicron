@@ -1,0 +1,553 @@
+Country,Date,Percentage of Omicron
+Angola,9/20/2021,0
+Angola,10/4/2021,0
+Argentina,9/20/2021,0
+Argentina,10/4/2021,0
+Argentina,10/18/2021,0
+Argentina,11/1/2021,0
+Argentina,11/15/2021,0
+Argentina,11/29/2021,0
+Argentina,12/13/2021,14.94
+Argentina,12/27/2021,85.11
+Aruba,9/20/2021,0
+Aruba,10/4/2021,0
+Aruba,10/18/2021,0
+Aruba,11/15/2021,0
+Aruba,11/29/2021,0
+Aruba,12/13/2021,0
+Australia,9/20/2021,0
+Australia,10/4/2021,0
+Australia,10/18/2021,0
+Australia,11/1/2021,0
+Australia,11/15/2021,0
+Australia,11/29/2021,0.4
+Australia,12/13/2021,13.07
+Australia,12/27/2021,76.42
+Austria,9/20/2021,0
+Austria,10/4/2021,0
+Austria,10/18/2021,0
+Austria,11/1/2021,0
+Austria,11/15/2021,0
+Austria,11/29/2021,4.24
+Austria,12/13/2021,14.75
+Bahrain,10/4/2021,0
+Bahrain,10/18/2021,0
+Bahrain,11/1/2021,0
+Bahrain,11/15/2021,0
+Bangladesh,9/20/2021,0
+Bangladesh,10/4/2021,0
+Bangladesh,10/18/2021,0
+Bangladesh,11/1/2021,0
+Bangladesh,11/15/2021,0
+Bangladesh,11/29/2021,0
+Bangladesh,12/13/2021,6.67
+Belgium,9/20/2021,0
+Belgium,10/4/2021,0
+Belgium,10/18/2021,0
+Belgium,11/1/2021,0
+Belgium,11/15/2021,0
+Belgium,11/29/2021,0.16
+Belgium,12/13/2021,9.39
+Belgium,12/27/2021,31.08
+Belgium,1/5/2022,50.85
+Bosnia and Herzegovina,10/4/2021,0
+Bosnia and Herzegovina,10/18/2021,0
+Bosnia and Herzegovina,11/1/2021,0
+Bosnia and Herzegovina,11/15/2021,0
+Bosnia and Herzegovina,11/29/2021,0
+Bosnia and Herzegovina,12/13/2021,0
+Botswana,9/20/2021,0
+Botswana,10/4/2021,0
+Botswana,10/18/2021,0
+Botswana,11/1/2021,0
+Botswana,11/15/2021,5.17
+Botswana,11/29/2021,20.16
+Botswana,12/13/2021,76.1
+Botswana,12/27/2021,99.3
+Brazil,9/20/2021,0
+Brazil,10/4/2021,0
+Brazil,10/18/2021,0
+Brazil,11/1/2021,0
+Brazil,11/15/2021,0
+Brazil,11/29/2021,0.16
+Brazil,12/13/2021,2.85
+Brazil,12/27/2021,58.33
+Brunei,11/15/2021,0
+Brunei,11/29/2021,0
+Brunei,12/13/2021,0
+Bulgaria,9/20/2021,0
+Bulgaria,10/4/2021,0
+Bulgaria,10/18/2021,0
+Bulgaria,11/1/2021,0
+Bulgaria,11/15/2021,0
+Bulgaria,11/29/2021,0
+Cambodia,9/20/2021,0
+Cambodia,10/4/2021,0
+Cambodia,10/18/2021,0
+Cambodia,11/1/2021,0
+Cambodia,11/15/2021,0
+Cambodia,11/29/2021,0
+Cambodia,12/13/2021,0.77
+Cambodia,12/27/2021,18.75
+Cameroon,9/20/2021,0
+Cameroon,10/4/2021,0
+Canada,9/20/2021,0
+Canada,10/4/2021,0
+Canada,10/18/2021,0
+Canada,11/1/2021,0
+Canada,11/15/2021,0.02
+Canada,11/29/2021,0.43
+Canada,12/13/2021,10.81
+Canada,12/27/2021,39.68
+Chile,9/20/2021,0
+Chile,10/4/2021,0
+Chile,10/18/2021,0
+Chile,11/1/2021,0
+Chile,11/15/2021,0
+Chile,11/29/2021,0.17
+Chile,12/13/2021,8.71
+Chile,12/27/2021,51.59
+Colombia,9/20/2021,0
+Colombia,10/4/2021,0
+Colombia,10/18/2021,0
+Colombia,11/1/2021,0
+Colombia,11/15/2021,0
+Colombia,11/29/2021,0
+Colombia,12/13/2021,0.89
+Colombia,12/27/2021,34.58
+Costa Rica,9/20/2021,0
+Costa Rica,10/4/2021,0
+Costa Rica,10/18/2021,0
+Costa Rica,11/1/2021,0
+Costa Rica,11/15/2021,0
+Costa Rica,11/29/2021,0
+Costa Rica,12/13/2021,1.67
+Costa Rica,12/27/2021,34.15
+Croatia,9/20/2021,0
+Croatia,10/4/2021,0
+Croatia,10/18/2021,0
+Croatia,11/1/2021,0
+Croatia,11/15/2021,0
+Croatia,11/29/2021,0
+Croatia,12/13/2021,0.86
+Curacao,9/20/2021,0
+Curacao,10/4/2021,0
+Curacao,10/18/2021,0
+Curacao,11/1/2021,0
+Czechia,9/20/2021,0
+Czechia,10/4/2021,0
+Czechia,10/18/2021,0
+Czechia,11/1/2021,0
+Czechia,11/15/2021,0
+Czechia,11/29/2021,0.15
+Czechia,12/13/2021,0.49
+Czechia,12/27/2021,14.85
+Denmark,9/20/2021,0
+Denmark,10/4/2021,0
+Denmark,10/18/2021,0
+Denmark,11/1/2021,0
+Denmark,11/15/2021,0
+Denmark,11/29/2021,0.04
+Denmark,12/13/2021,4.9
+Denmark,12/27/2021,48.86
+Dominican Republic,10/18/2021,0
+Ecuador,9/20/2021,0
+Ecuador,10/4/2021,0
+Ecuador,10/18/2021,0
+Ecuador,11/15/2021,0
+Ecuador,11/29/2021,0
+Ecuador,12/13/2021,3.23
+Ecuador,12/27/2021,47.27
+Egypt,11/1/2021,0
+Estonia,9/20/2021,0
+Estonia,10/4/2021,0
+Estonia,10/18/2021,0
+Estonia,11/1/2021,0
+Estonia,11/15/2021,0
+Estonia,11/29/2021,0
+Estonia,12/13/2021,0
+Finland,9/20/2021,0
+Finland,10/4/2021,0
+Finland,10/18/2021,0
+Finland,11/1/2021,0
+Finland,11/15/2021,0
+Finland,11/29/2021,0
+France,9/20/2021,0
+France,10/4/2021,0
+France,10/18/2021,0
+France,11/1/2021,0
+France,11/15/2021,0.01
+France,11/29/2021,0.12
+France,12/13/2021,2.21
+France,12/27/2021,22.93
+France,1/5/2022,80.34
+Georgia,10/4/2021,0
+Georgia,10/18/2021,0
+Georgia,11/1/2021,0
+Georgia,11/15/2021,0
+Georgia,11/29/2021,0
+Georgia,12/13/2021,0
+Georgia,12/27/2021,41.82
+Germany,9/20/2021,0
+Germany,10/4/2021,0
+Germany,10/18/2021,0
+Germany,11/1/2021,0
+Germany,11/15/2021,0
+Germany,11/29/2021,0.15
+Germany,12/13/2021,2.34
+Germany,12/27/2021,13.52
+Ghana,9/20/2021,0
+Ghana,10/4/2021,0
+Ghana,10/18/2021,0
+Ghana,11/1/2021,0
+Ghana,11/29/2021,68.42
+Ghana,12/13/2021,77.78
+Greece,9/20/2021,0
+Greece,10/4/2021,0
+Greece,11/1/2021,0
+Greece,11/15/2021,0
+Greece,11/29/2021,0
+Greece,12/13/2021,0.33
+Guatemala,9/20/2021,0
+Guatemala,10/4/2021,0
+Guatemala,10/18/2021,0
+Hong Kong,11/15/2021,9.68
+Hong Kong,11/29/2021,27.5
+Hong Kong,12/27/2021,76.09
+India,9/20/2021,0
+India,10/4/2021,0
+India,10/18/2021,0
+India,11/1/2021,0
+India,11/15/2021,0.07
+India,11/29/2021,0.37
+India,12/13/2021,3.23
+India,12/27/2021,34.87
+Indonesia,9/20/2021,0
+Indonesia,10/4/2021,0
+Indonesia,10/18/2021,0
+Indonesia,11/1/2021,0
+Indonesia,11/15/2021,0
+Indonesia,11/29/2021,0
+Indonesia,12/13/2021,1
+Indonesia,12/27/2021,41.56
+Ireland,9/20/2021,0
+Ireland,10/4/2021,0
+Ireland,10/18/2021,0
+Ireland,11/1/2021,0
+Ireland,11/15/2021,0
+Ireland,11/29/2021,1.23
+Ireland,12/13/2021,15.09
+Israel,9/20/2021,0
+Israel,10/4/2021,0
+Israel,10/18/2021,0
+Israel,11/1/2021,0
+Israel,11/15/2021,0
+Israel,11/29/2021,0.27
+Israel,12/13/2021,7.38
+Israel,12/27/2021,53.76
+Italy,9/20/2021,0
+Italy,10/4/2021,0
+Italy,10/18/2021,0
+Italy,11/1/2021,0
+Italy,11/15/2021,0
+Italy,11/29/2021,0.12
+Italy,12/13/2021,1.05
+Italy,12/27/2021,20.63
+Japan,9/20/2021,0
+Japan,10/4/2021,0
+Japan,10/18/2021,0
+Japan,11/1/2021,0
+Japan,11/15/2021,0
+Japan,11/29/2021,1.82
+Japan,12/13/2021,11.95
+Japan,12/27/2021,77.12
+Jordan,9/20/2021,0
+Jordan,10/4/2021,0
+Jordan,10/18/2021,0
+Jordan,11/1/2021,0
+Jordan,11/15/2021,0
+Jordan,11/29/2021,0
+Jordan,12/27/2021,68.75
+Kazakhstan,10/18/2021,0
+Kenya,9/20/2021,0
+Kenya,10/4/2021,0
+Kenya,10/18/2021,0
+Kenya,11/1/2021,0
+Kenya,11/15/2021,0
+Kenya,12/13/2021,77.27
+Kosovo,9/20/2021,0
+Kosovo,10/4/2021,0
+Kosovo,10/18/2021,0
+Kosovo,11/1/2021,0
+Kosovo,11/15/2021,0
+Kuwait,10/4/2021,0
+Liechtenstein,11/15/2021,0
+Liechtenstein,11/29/2021,0
+Liechtenstein,12/13/2021,1.59
+Lithuania,9/20/2021,0
+Lithuania,10/4/2021,0
+Lithuania,10/18/2021,0
+Lithuania,11/1/2021,0
+Lithuania,11/15/2021,0
+Lithuania,11/29/2021,0
+Lithuania,12/13/2021,0.67
+Lithuania,12/27/2021,23.58
+Luxembourg,9/20/2021,0
+Luxembourg,10/4/2021,0
+Luxembourg,10/18/2021,0
+Luxembourg,11/1/2021,0
+Luxembourg,11/15/2021,0
+Luxembourg,11/29/2021,0
+Luxembourg,12/13/2021,0.15
+Malaysia,9/20/2021,0
+Malaysia,10/4/2021,0
+Malaysia,10/18/2021,0
+Malaysia,11/1/2021,0
+Malaysia,11/15/2021,0
+Malaysia,11/29/2021,0.33
+Malaysia,12/13/2021,5.05
+Malaysia,12/27/2021,11.9
+Maldives,9/20/2021,0
+Maldives,10/4/2021,0
+Maldives,10/18/2021,0
+Maldives,11/1/2021,0
+Maldives,11/15/2021,0
+Maldives,11/29/2021,1.69
+Maldives,12/13/2021,2.8
+Maldives,12/27/2021,21.88
+Malta,10/18/2021,0
+Malta,11/29/2021,0
+Malta,12/27/2021,100
+Mauritius,11/1/2021,0
+Mauritius,11/29/2021,7.32
+Mexico,9/20/2021,0
+Mexico,10/4/2021,0
+Mexico,10/18/2021,0
+Mexico,11/1/2021,0
+Mexico,11/15/2021,0
+Mexico,11/29/2021,0.21
+Mexico,12/13/2021,1.2
+Mexico,12/27/2021,55.17
+Montenegro,11/1/2021,0
+Montenegro,11/15/2021,0
+Montenegro,12/13/2021,8.7
+Netherlands,9/20/2021,0
+Netherlands,10/4/2021,0
+Netherlands,10/18/2021,0
+Netherlands,11/1/2021,0
+Netherlands,11/15/2021,0
+Netherlands,11/29/2021,1.21
+Netherlands,12/13/2021,5.67
+Netherlands,12/27/2021,29.3
+New Zealand,9/20/2021,0
+New Zealand,10/4/2021,0
+New Zealand,10/18/2021,0
+New Zealand,11/1/2021,0
+New Zealand,11/15/2021,0
+New Zealand,11/29/2021,0
+New Zealand,12/13/2021,0.96
+New Zealand,12/27/2021,28.25
+Nigeria,9/20/2021,0
+Nigeria,10/4/2021,0
+Nigeria,10/18/2021,1.67
+Nigeria,11/1/2021,0
+Nigeria,11/29/2021,17.86
+Nigeria,12/13/2021,84.93
+North Macedonia,11/15/2021,0
+Norway,9/20/2021,0
+Norway,10/4/2021,0
+Norway,10/18/2021,0
+Norway,11/1/2021,0
+Norway,11/15/2021,0
+Norway,11/29/2021,0.33
+Norway,12/13/2021,28.95
+Norway,12/27/2021,25.37
+Pakistan,9/20/2021,0
+Pakistan,10/18/2021,0
+Pakistan,11/1/2021,0
+Pakistan,11/15/2021,0
+Papua New Guinea,9/20/2021,0
+Papua New Guinea,10/4/2021,0
+Papua New Guinea,10/18/2021,0
+Papua New Guinea,11/1/2021,0
+Papua New Guinea,11/15/2021,0
+Paraguay,10/4/2021,0
+Peru,9/20/2021,0
+Peru,10/4/2021,0
+Peru,10/18/2021,0
+Peru,11/1/2021,0
+Peru,11/15/2021,0
+Peru,11/29/2021,0
+Peru,12/13/2021,3.08
+Poland,9/20/2021,0
+Poland,10/4/2021,0
+Poland,10/18/2021,0
+Poland,11/1/2021,0
+Poland,11/15/2021,0
+Poland,11/29/2021,0
+Poland,12/13/2021,0.12
+Poland,12/27/2021,2.21
+Poland,1/5/2022,11.29
+Portugal,9/20/2021,0
+Portugal,10/4/2021,0
+Portugal,10/18/2021,0
+Portugal,11/1/2021,0
+Portugal,11/15/2021,0
+Portugal,11/29/2021,1.56
+Portugal,12/13/2021,6.11
+Portugal,12/27/2021,23.14
+Qatar,9/20/2021,0
+Qatar,10/4/2021,0
+Qatar,11/1/2021,0
+Qatar,11/15/2021,0
+Qatar,11/29/2021,0
+Romania,9/20/2021,0
+Romania,10/4/2021,0
+Romania,10/18/2021,0
+Romania,11/1/2021,0
+Romania,11/15/2021,0
+Romania,11/29/2021,0
+Romania,12/13/2021,13.95
+Romania,12/27/2021,3.61
+Russia,9/20/2021,0
+Russia,10/4/2021,0
+Russia,10/18/2021,0
+Russia,11/1/2021,0
+Russia,11/15/2021,0
+Russia,11/29/2021,0
+Russia,12/13/2021,1.99
+Russia,12/27/2021,29.03
+Seychelles,9/20/2021,0
+Seychelles,10/4/2021,0
+Seychelles,10/18/2021,0
+Singapore,9/20/2021,0
+Singapore,10/4/2021,0
+Singapore,10/18/2021,0
+Singapore,11/1/2021,0
+Singapore,11/15/2021,0
+Singapore,11/29/2021,0
+Singapore,12/13/2021,6.84
+Singapore,12/27/2021,49.9
+Sint Maarten (Dutch part),9/20/2021,0
+Sint Maarten (Dutch part),10/4/2021,0
+Sint Maarten (Dutch part),10/18/2021,0
+Sint Maarten (Dutch part),11/1/2021,0
+Slovakia,9/20/2021,0
+Slovakia,10/4/2021,0
+Slovakia,10/18/2021,0
+Slovakia,11/1/2021,0
+Slovakia,11/15/2021,0
+Slovakia,11/29/2021,0
+Slovakia,12/13/2021,0.7
+Slovakia,12/27/2021,10.13
+Slovenia,9/20/2021,0
+Slovenia,10/4/2021,0
+Slovenia,10/18/2021,0
+Slovenia,11/1/2021,0
+Slovenia,11/15/2021,0
+Slovenia,11/29/2021,0
+Slovenia,12/13/2021,0.46
+South Africa,9/20/2021,0
+South Africa,10/4/2021,0
+South Africa,10/18/2021,0
+South Africa,11/1/2021,0.48
+South Africa,11/15/2021,21.55
+South Africa,11/29/2021,85.65
+South Africa,12/13/2021,95.9
+South Africa,12/27/2021,93.85
+South Korea,9/20/2021,0
+South Korea,10/4/2021,0
+South Korea,10/18/2021,0
+South Korea,11/1/2021,0
+South Korea,11/15/2021,0
+South Korea,11/29/2021,0.15
+South Korea,12/13/2021,0.93
+South Korea,12/27/2021,0
+Spain,9/20/2021,0
+Spain,10/4/2021,0
+Spain,10/18/2021,0
+Spain,11/1/2021,0
+Spain,11/15/2021,0
+Spain,11/29/2021,0.05
+Spain,12/13/2021,11.36
+Spain,12/27/2021,46.52
+Sri Lanka,9/20/2021,0
+Sri Lanka,10/4/2021,0
+Sri Lanka,10/18/2021,0
+Sri Lanka,11/1/2021,0
+Sri Lanka,11/15/2021,0
+Sri Lanka,11/29/2021,0.99
+Sri Lanka,12/13/2021,1.52
+Sri Lanka,12/27/2021,19.37
+Suriname,9/20/2021,0
+Suriname,10/4/2021,0
+Suriname,10/18/2021,0
+Sweden,9/20/2021,0
+Sweden,10/4/2021,0
+Sweden,10/18/2021,0
+Sweden,11/1/2021,0
+Sweden,11/15/2021,0
+Sweden,11/29/2021,0.12
+Sweden,12/13/2021,5.46
+Sweden,12/27/2021,35.03
+Switzerland,9/20/2021,0
+Switzerland,10/4/2021,0
+Switzerland,10/18/2021,0
+Switzerland,11/1/2021,0
+Switzerland,11/15/2021,0
+Switzerland,11/29/2021,0.37
+Switzerland,12/13/2021,5.07
+Switzerland,12/27/2021,38.65
+Thailand,9/20/2021,0
+Thailand,10/4/2021,0
+Thailand,10/18/2021,0
+Thailand,11/1/2021,0
+Thailand,11/15/2021,0
+Thailand,11/29/2021,0.39
+Thailand,12/13/2021,2.17
+Trinidad and Tobago,9/20/2021,0
+Trinidad and Tobago,10/4/2021,0
+Trinidad and Tobago,10/18/2021,0
+Trinidad and Tobago,11/1/2021,0
+Trinidad and Tobago,11/15/2021,0
+Trinidad and Tobago,11/29/2021,0
+Trinidad and Tobago,12/13/2021,1.9
+Trinidad and Tobago,12/27/2021,22.86
+Turkey,9/20/2021,0
+Turkey,10/4/2021,0
+Turkey,10/18/2021,0
+Turkey,11/1/2021,0
+Turkey,11/15/2021,0
+Turkey,11/29/2021,0
+Turkey,12/13/2021,0.11
+Turkey,12/27/2021,9.62
+Ukraine,9/20/2021,0
+Ukraine,11/1/2021,0
+Ukraine,11/29/2021,0
+United Kingdom,9/20/2021,0
+United Kingdom,10/4/2021,0
+United Kingdom,10/18/2021,0
+United Kingdom,11/1/2021,0
+United Kingdom,11/15/2021,0
+United Kingdom,11/29/2021,0.16
+United Kingdom,12/13/2021,9.39
+United Kingdom,12/27/2021,65.57
+United Kingdom,1/5/2022,95.91
+United States,9/20/2021,0
+United States,10/4/2021,0
+United States,10/18/2021,0
+United States,11/1/2021,0
+United States,11/15/2021,0
+United States,11/29/2021,0.06
+United States,12/13/2021,3.68
+United States,12/27/2021,50.13
+United States,1/5/2022,80
+Vietnam,9/20/2021,0
+Vietnam,10/4/2021,0
+Vietnam,10/18/2021,0
+Vietnam,11/1/2021,0
+Vietnam,11/15/2021,0
+Vietnam,11/29/2021,0
+Vietnam,12/13/2021,0
+Vietnam,12/27/2021,2
+Zambia,12/13/2021,100
